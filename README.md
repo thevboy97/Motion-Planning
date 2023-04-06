@@ -33,5 +33,5 @@ Implementation of search-based motion planning algorithms such as A* and differe
     The default is set to eps=1 and N=500 as it works best for most maps but can be tuned as needed for different maps for different speed.
     Taking eps=2, N=100 also present viable options.
 
-Various plots are taken for the trajectory of the robot in the environment, by storing the coordinates over time.
+Various plots are taken for the trajectory of the robot in the environment, by storing the coordinates over time, in th results folder.
 
